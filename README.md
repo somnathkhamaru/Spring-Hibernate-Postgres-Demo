@@ -10,7 +10,7 @@ git clone https://github.com/somnathkhamaru/Spring-Hibernate-Postgres-Demo.git
 
 2. Configure PostgreSQL
 
-First, create a database named Hibernate_Demo. Then, open src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml file and change the spring datasource username and password as per your PostgreSQL installation.
+First, create a database named Hibernate_Demo. Then, open <b>src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml</b> file and change the spring datasource username and password as per your PostgreSQL installation.
 
 3. Run the app
 
